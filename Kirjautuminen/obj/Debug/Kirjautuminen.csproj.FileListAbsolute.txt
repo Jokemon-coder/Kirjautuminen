@@ -1,0 +1,12 @@
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\bin\Debug\Kirjautuminen.exe.config
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\bin\Debug\Kirjautuminen.exe
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\bin\Debug\Kirjautuminen.pdb
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.Properties.Resources.resources
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.exe
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.pdb
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.Kirjautuminen.resources
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.Paaikkuna.resources
+C:\Users\Joel\source\repos\Kirjautuminen\Kirjautuminen\obj\Debug\Kirjautuminen.Rekisteroidy.resources
